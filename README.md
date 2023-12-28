@@ -11,4 +11,4 @@ This app was maded with:
 
 This is a small practice to keep knowing more about server actions in next js 14. Creating this small app was with the point of keep practicing, since programming is a big world of differents lenguajes and the lenguajes evolves.
 
-
+![Screenshot 2023-12-28 114050](https://github.com/Elswee13/animelist/assets/77897104/3de37c89-498f-44ff-a9c5-faf8eabe6935)
